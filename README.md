@@ -8,7 +8,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/README.md)
 - [Portfolio Projects](https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/README.md#portfolio-projects)
   - SQL
-    - [Instagram Influencers Analysis](https://github.com/nurlailafff/Data_Analyst_Portofolio#Instagram Influencers Analysis)
+    - [Instagram Influencers Analysis](https://github.com/nurlailafff/Data_Analyst_Portofolio#Instagram-Influencers-Analysis)
   - Tableau---> [go to Tableau](https://public.tableau.com/views/InfluencerDashboard_17336443851910/InstagramInfluencersDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   
 
