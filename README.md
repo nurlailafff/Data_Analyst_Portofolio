@@ -32,5 +32,5 @@ This is a repository to showcase skills, share projects and track my progress in
 
 
 ## Contacts
-- LinkedIn: [nur-lailatul-fitriah](www.linkedin.com/in/nur-lailatul-fitriah)
+- LinkedIn: [nur-lailatul-fitriah](https://linkedin.com/in/nur-lailatul-fitriah/)
 - Email: nurlailatul17@gmail.com
