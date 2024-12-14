@@ -18,7 +18,9 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 
 ### Instagram Influencers Analysis
-**Code:** [`Instagram Influencers Analysis.sql`](https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/instagram%20influencer%20data%20cleaned.sql)
+**Code:** 
+- [`Instagram Influencers Analysis.sql`](https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/instagram%20influencer%20data%20cleaned.sql)
+-  [`Instagram Influencers Analysis.Tableau`](https://public.tableau.com/views/InfluencerDashboard_17336443851910/InstagramInfluencersDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Goal:** To determine some of the best influencer choices to collaborate with.
 
