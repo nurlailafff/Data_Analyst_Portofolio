@@ -43,9 +43,13 @@ This is a repository to showcase skills, share projects and track my progress in
 This project involves a comprehensive analysis of a car sales dataset to provide insights into overall sales performance, customer preferences, and market trends.
 
 **Key Insights:**
+
 **Sales Permormance Analysis:** Understands overall sales performance, identifies the best-selling models, and explores trends over the years.
+
 **Customer Preferences:** Analyzes customer preferences by examining the popularity of different car makes, models, body types, and colors.
+
 **Market Trend Analysis:** Identifies market trends by analyzing the popularity of different car makes and models over the years, investigating if certain body types or fuel types are gaining traction in the market.
+
 **Columns Descriptions:**
 - name: The specific name of the car.
 - Car Model: The specific model name or designation of the car (e.g., Maruti, Hyundai, Datsum).
@@ -57,7 +61,9 @@ This project involves a comprehensive analysis of a car sales dataset to provide
 - Owner: The type of owner who buys a car (e.g., first owner, second owner).
 
 **Skills:** data exploration, data analysis, data visualization.
+
 **Technology:** Mysql, Tableau.
+
 **Results:**
 - The dataset includes information on 1475 types of car name and 29 different car models.
 - Diesel and Petrol are the highest unit sold fuel type, surpassing electric, CNG and LPG.
