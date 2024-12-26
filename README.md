@@ -36,6 +36,7 @@ This is a repository to showcase skills, share projects and track my progress in
 **Code:** 
 - Car Sales Data Exploreation: [`Car Sales Data Exploreation.sql`](https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/car_sales_dataset_explore.sql)
 - Car Sales Dashboard: [`Car Sales Dashboard.Tableau`](https://public.tableau.com/views/carsalesdashboard_17348722329210/CARSALESDASHBOARD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  
 **Source Dataset:**  [`Car Sales Dataset`]( https://www.kaggle.com/datasets/akshaydattatraykhare/car-details-dataset)
 
 **Description:** 
