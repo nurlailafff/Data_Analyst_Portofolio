@@ -11,12 +11,27 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Instagram Influencers Analysis](https://github.com/nurlailafff/Data_Analyst_Portofolio#Instagram-Influencers-Analysis)
     - [Car Sales Report](https://github.com/nurlailafff/Data_Analyst_Portofolio#Car-Sales-Report)
   - Tableau---> [go to Tableau](https://public.tableau.com/app/profile/nur.lailatul.fitriah5862/vizzes)
-  
+  - Power BI---> [Telecom Churn Analysis](https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/4.%20churn%20analysis.pbix)
+
+
 
 
 
 - [Contact](https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/README.md#contacts)
 ## Portfolio Projects
+
+### Telecom Customer Churn Analysis
+**Code:** 
+- [`Telecom Customer Churn Analysis (Presentation)`]( https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/1.%20Customer%20Churn%20Analysis%20Presentation.pdf)
+-  [`Telecom Customer Churn Analysis.PowerBI`](https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/4.%20churn%20analysis.pbix)
+-  [`Telecom Customer Churn Analysis.Dashboard`](https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/churn%20analysis_dashboard.jpg)
+
+
+**Source Dataset:** [`Telecom Customer Dataset`]( https://colorstech.net/data-analytics/telecom-customer-churn-prediction-dataset-overview/#google_vignette)
+
+**Skills:**  data analysis, data visualization.
+
+**Technology:** PowerBI, Excel.
 
 ### Instagram Influencers Analysis
 **Code:** 
