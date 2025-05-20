@@ -7,6 +7,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/README.md)
 - [Portfolio Projects](https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/README.md#portfolio-projects)
+  - [`Bellabeat Case Study: Fitness Tracker Data Analysis Using SQL and Tableau`]( https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/README.md#bellabeat-case-study: fitness-tracker-data-analysis-using-SQL-and-Tableau)
   - [`Telecom Customer Churn Analysis`]( https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/README.md#telecom-customer-churn-analysis)
   - [`Instagram Influencers Analysis `]( https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/README.md#instagram-influencers-analysis)
   - [`Car Sales Report `]( https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/README.md#car-sales-report)
@@ -16,7 +17,44 @@ This is a repository to showcase skills, share projects and track my progress in
 
 
 - [Contact](https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/README.md#contacts)
+
+  
 ## Portfolio Projects
+
+### Bellabeat Case Study: Fitness Tracker Data Analysis Using SQL and Tableau
+**File Access:** 
+- [`Bellabeat Case Study: Fitness Tracker Data Analysis Using SQL and Tableau (Presentation)`]( https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/Bellabeat%20Case%20Study%20Fitness%20Tracker%20Data%20Analysis%20Using%20SQL%20and%20Tableau.pdf)
+-  [`Data Cleaning Bellabeat.sql`]( https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/CLEANING%20DATA%20Bellabeat.sql)
+-  [`Analysis Data Bellabeat.sql`]( https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/Analysis%20Data%20Bellabeat.sql)
+
+
+**Source Dataset:** [`FitBit Fitness Tracker Data`]( https://www.kaggle.com/datasets/arashnic/fitbit?resource=download) (Public FitBit user data from 30+ users over 31 days).
+
+**Project Overview:** Bellabeat, a wellness tech company focused on women’s health, aims to better understand user behavior through data collected from fitness trackers. This project analyzes data to provide business insights that help Bellabeat improve user engagement, promote healthy habits, and inform product development.
+
+**Business Task:** Bellabeat wants to explore how smart device data—steps, sleep, calories, activity—can guide marketing strategies and enhance user product experience.
+
+**Key Analysis & Insight:** 
+-	Fewer than 30% of Users reach the 10.000 steps goal consistently
+-	A significant number of users did not meet 10.000 steps.
+-	51.61% of days met the goal of 420+ Minutes of sleep (CDC Recommendation).
+-	100% of weeks met the goal of 150+ minutes every week (CDC Recommendation) of lightly intensity activity.
+-	Least Active Day: Monday
+-	Peak Activity Hours: 12.00 PM - 02.00 PM and 05.00 PM - 07.00 PM
+-	There’s is no correlation between the daily steps and minutes asleep
+-	There is a correlation between the daily steps and calories.
+-	The more user steps the more they burn calories.
+-	42% of users wear smart device all day.
+
+**Recommendations:** 
+-	Encourage Activity: Send reminders to move during peak activity hours. Deliver reminders to sleep earlier.
+-	Gamification: Add daily goals, streaks, and rewards to motivate users.
+-	Social Features: Create a community space for users to share progress and motivate each other.
+-	Improve Device Usage: Encourage all-day wear by optimizing comfort and battery life.
+
+**Skills:**  Data cleaning & Preparation (Remove duplicate, handled missing values, ensured data consistency, and merged multiple dataset); Statistical analysis; Data analysis & interpretion; Business Intelligence;  Data visualization; Problem-solving.
+
+**Technology:** Google BigQuery SQL, Google Sheets, Tableau .
 
 ### Telecom Customer Churn Analysis
 **Code:** 
@@ -92,4 +130,4 @@ This project involves a comprehensive analysis of a car sales dataset to provide
 
 ## Contacts
 - LinkedIn: [nur-lailatul-fitriah](https://linkedin.com/in/nur-lailatul-fitriah/)
-- Email: nurlailatul17@gmail.com
+- Email: nurlailatul17@gmail.com 
