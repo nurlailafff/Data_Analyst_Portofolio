@@ -7,7 +7,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/README.md)
 - [Portfolio Projects](https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/README.md#portfolio-projects)
-  - [`Bellabeat Case Study: Fitness Tracker Data Analysis Using SQL and Tableau`]( https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/README.md#bellabeat-case-study: fitness-tracker-data-analysis-using-SQL-and-Tableau)
+  - [`Bellabeat Case Study: Fitness Tracker Data Analysis Using SQL and Tableau`]( https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/README.md#bellabeat-case-study:-fitness-tracker-data-analysis-using-SQL-and-Tableau)
   - [`Telecom Customer Churn Analysis`]( https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/README.md#telecom-customer-churn-analysis)
   - [`Instagram Influencers Analysis `]( https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/README.md#instagram-influencers-analysis)
   - [`Car Sales Report `]( https://github.com/nurlailafff/Data_Analyst_Portofolio/blob/main/README.md#car-sales-report)
